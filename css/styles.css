@@ -19,3 +19,21 @@ body{
   text-align: center;
   text-decoration: underline;
 }
+#play{
+  margin-left: 45%;
+}
+#pl1{
+  margin-left: 55%;
+  width: 20%;
+  color: black;
+}
+#pl2{
+  color: black;
+}
+.social{
+  margin-left: 45%;
+}
+.footer{
+  text-align: center;
+  color: black;
+}
