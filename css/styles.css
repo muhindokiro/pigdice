@@ -1,0 +1,21 @@
+body{
+  background-image: url(../images/pg1.jpeg);
+  color: white;
+  font-family: 'Old Standard TT', serif;
+}
+#info{
+  background-image: url(../images/pg2.jpeg);
+}
+#ic1{
+  width: 7%;
+  height: 7%;
+}
+#ic2{
+  width: 7%;
+  height: 7%;
+  float: right;
+}
+#h1{
+  text-align: center;
+  text-decoration: underline;
+}
