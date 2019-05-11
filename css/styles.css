@@ -3,6 +3,12 @@ body{
   color: white;
   font-family: 'Old Standard TT', serif;
 }
+.about-hidden{
+  display: none;
+}
+.rules-hidden{
+  display: none;
+}
 #info{
   background-image: url(../images/pg2.jpeg);
 }
