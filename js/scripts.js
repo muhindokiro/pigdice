@@ -7,4 +7,4 @@ $(".clickable1").click(function(){
   $(".rules-hidden").toggle();
   $(".rules-showing").toggle();
 });
-})
+});
