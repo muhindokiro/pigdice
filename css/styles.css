@@ -17,6 +17,7 @@ body{
   background-image: url(../images/pg1.jpeg);
   color: white;
   font-family: 'Old Standard TT', serif;
+  font-size: 130%;
 }
 .about-hidden{
   display: none;
@@ -51,9 +52,7 @@ body{
 #pl2{
   color: grey;
 }
-.social{
-  margin-left: 45%;
-}
+
 .footer{
   text-align: center;
   color: grey;
